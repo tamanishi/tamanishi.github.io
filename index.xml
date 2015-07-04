@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Too much shallot</title>
-    <link>http://tamanishi.net/</link>
-    <description>Recent content on Too much shallot</description>
+    <title>Overdose the shallots</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Overdose the shallots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 04 Jul 2015 11:14:25 +0900</lastBuildDate>
-    <atom:link href="http://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
-      <link>http://tamanishi.net/post/firstpost/</link>
+      <link>http://localhost:1313/post/firstpost/</link>
       <pubDate>Sat, 04 Jul 2015 11:14:25 +0900</pubDate>
       
-      <guid>http://tamanishi.net/post/firstpost/</guid>
+      <guid>http://localhost:1313/post/firstpost/</guid>
       <description>&lt;p&gt;書いてみた。
 エシャロット食べすぎた翌日。&lt;/p&gt;
 </description>
@@ -22,10 +22,10 @@
     
     <item>
       <title>index</title>
-      <link>http://tamanishi.net/</link>
+      <link>http://localhost:1313/</link>
       <pubDate>Sat, 04 Jul 2015 10:54:06 +0900</pubDate>
       
-      <guid>http://tamanishi.net/</guid>
+      <guid>http://localhost:1313/</guid>
       <description></description>
     </item>
     
