@@ -41,7 +41,7 @@
 Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;Showcases&lt;/a&gt;が余りに微妙なので彷徨い歩いたところ、日本の方でシンプルに作られてるものを見つけた。
 有難いかぎり。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/mofumofu3n/items/b859fb3c5d924cfcca15&#34;&gt;自分のGitHub Pagesと独自ドメインの設定方法&lt;/a&gt;&lt;br /&gt;
-ここだけちょっと悩んだ。今回ルートドメイン(tamanishi.com)を直接GitHub Pagesに繋げようと思ってた。&lt;br /&gt;
+ここだけちょっと悩んだ。今回ルートドメイン(tamanishi.com)をGitHub Pagesに繋げようと思ってた。&lt;br /&gt;
 んだけど、お名前.comのDNSだとルートドメインにはALIAS設定できないらしい、だとか&lt;br /&gt;
 &lt;a href=&#34;http://blog.dozens.jp/post/121313849283/alias&#34;&gt;DozensがルートドメインへのALIASをサポート(有料)してる&lt;/a&gt;らしい、とか&lt;br /&gt;
 &lt;a href=&#34;http://support.gehirn.jp/information/news/2015/03/25/1145/&#34;&gt;Gehirnが2ドメインまで無料でルートドメインへのALIASをサポートしてたんだけど止める&lt;/a&gt;らしい、とか&lt;br /&gt;
