@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>木耳</title>
-    <link>http://tamanishi.net/</link>
+    <link>https://tamanishi.net/</link>
     <description>Recent content on 木耳</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 04 Jul 2015 11:14:25 +0900</lastBuildDate>
-    <atom:link href="http://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
-      <link>http://tamanishi.net/post/firstpost/</link>
+      <link>https://tamanishi.net/post/firstpost/</link>
       <pubDate>Sat, 04 Jul 2015 11:14:25 +0900</pubDate>
       
-      <guid>http://tamanishi.net/post/firstpost/</guid>
+      <guid>https://tamanishi.net/post/firstpost/</guid>
       <description>
 
 &lt;p&gt;定期的に生エシャレットを過食する儀式の翌日。&lt;/p&gt;
@@ -52,6 +52,15 @@ Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;S
 &lt;p&gt;何にせよ、数年前に比べて簡単にキレイなものが作れるようになった。デプロイも何もかも簡単だ。
 スバラシイ。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://tamanishi.net/</link>
+      <pubDate>Sat, 04 Jul 2015 10:54:06 +0900</pubDate>
+      
+      <guid>https://tamanishi.net/</guid>
+      <description></description>
     </item>
     
   </channel>

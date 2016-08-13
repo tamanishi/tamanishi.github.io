@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tamanishi.net/</loc>
+    <loc>https://tamanishi.net/</loc>
     <lastmod>2015-07-04T11:14:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tamanishi.net/post/firstpost/</loc>
+    <loc>https://tamanishi.net/post/firstpost/</loc>
     <lastmod>2015-07-04T11:14:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamanishi.net/</loc>
+    <lastmod>2015-07-04T10:54:06+09:00</lastmod>
   </url>
   
 </urlset>
