@@ -6,21 +6,18 @@
     <description>Recent content on 木耳</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2015 11:14:25 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 11:14:25 +0900</lastBuildDate>
     <atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
       <link>https://tamanishi.net/post/firstpost/</link>
-      <pubDate>Sat, 04 Jul 2015 11:14:25 +0900</pubDate>
+      <pubDate>Sat, 13 Aug 2016 11:14:25 +0900</pubDate>
       
       <guid>https://tamanishi.net/post/firstpost/</guid>
       <description>
 
-&lt;p&gt;定期的に生エシャレットを過食する儀式の翌日。&lt;/p&gt;
-
-&lt;p&gt;お名前.comでドメイン取ってみてから早2ヶ月。&lt;br /&gt;
-チマチマとブログ枠組みの妄想だけしてみていたのですが、&lt;br /&gt;
+&lt;p&gt;お名前.comでドメイン取ってみてから早1年強。&lt;br /&gt;
 いい加減カタチだけでも、と思って作りました。&lt;/p&gt;
 
 &lt;h4 id=&#34;活用-参考させていただいたところ&#34;&gt;活用・参考させていただいたところ&lt;/h4&gt;
@@ -33,20 +30,14 @@
 &lt;li&gt;&lt;a href=&#34;http://www.onamae.com/&#34;&gt;お名前.com&lt;/a&gt;&lt;br /&gt;
 安い。常時セールな印象。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;br /&gt;
-静的がいいよな、というのと、何か速そうなことを言っている人を多く見かけた。&lt;/li&gt;
+流行り？&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&gt;Font Awesome&lt;/a&gt;&lt;br /&gt;
-右上の&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt;と&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;しか使ってないけどな。&lt;br /&gt;
-ちょっとだけカッコつけたかっただけ。エシャレットっぽいアイコン探したけどなかった。&lt;/li&gt;
+右上の&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt;と&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;のためだけです。&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tanksuzuki/angels-ladder&#34;&gt;Angel&amp;rsquo;s Ladder&lt;/a&gt;&lt;br /&gt;
-Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;Showcases&lt;/a&gt;が余りに微妙なので彷徨い歩いたところ、日本の方でシンプルに作られてるものを見つけた。
-有難いかぎり。&lt;/li&gt;
+Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;Showcases&lt;/a&gt;が余りに微妙なので彷徨い歩いたところ、日本の方でシンプルに作られてるものを見つけたので使わせてもらいました。&lt;br /&gt;
+有難いかぎりです。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/mofumofu3n/items/b859fb3c5d924cfcca15&#34;&gt;自分のGitHub Pagesと独自ドメインの設定方法&lt;/a&gt;&lt;br /&gt;
-ここだけちょっと悩んだ。今回ルートドメイン(tamanishi. net)をGitHub Pagesに繋げようと思ってた。&lt;br /&gt;
-んだけど、お名前.comのDNSだとルートドメインにはALIAS設定できないらしい、だとか&lt;br /&gt;
-&lt;a href=&#34;http://blog.dozens.jp/post/121313849283/alias&#34;&gt;DozensがルートドメインへのALIASをサポート(有料)してる&lt;/a&gt;らしい、とか&lt;br /&gt;
-&lt;a href=&#34;http://support.gehirn.jp/information/news/2015/03/25/1145/&#34;&gt;Gehirnが2ドメインまで無料でルートドメインへのALIASをサポートしてたんだけど止める&lt;/a&gt;らしい、とか&lt;br /&gt;
-&lt;a href=&#34;https://support.dnsimple.com/articles/github-pages/&#34;&gt;DNSimpleは普通にサポート(有料)してる&lt;/a&gt;とか&lt;br /&gt;
-いろんな情報を見たんだけど、結局このQiitaの記事で事足りたという。&lt;/li&gt;
+簡単には出来なくて、いろんな情報を見たんだけど、結局このQiitaの記事で事足りたという。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;何にせよ、数年前に比べて簡単にキレイなものが作れるようになった。デプロイも何もかも簡単だ。
@@ -57,7 +48,7 @@ Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;S
     <item>
       <title>firstpost</title>
       <link>https://tamanishi.net/</link>
-      <pubDate>Sat, 04 Jul 2015 10:54:06 +0900</pubDate>
+      <pubDate>Sat, 13 Aug 2016 10:54:06 +0900</pubDate>
       
       <guid>https://tamanishi.net/</guid>
       <description></description>
