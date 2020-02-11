@@ -1,55 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>木耳</title>
+    <title>tamanishi</title>
     <link>https://tamanishi.net/</link>
-    <description>Recent content on 木耳</description>
+    <description>Recent content on tamanishi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 13 Aug 2016 11:14:25 +0900</lastBuildDate>
-    <atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>firstpost</title>
-      <link>https://tamanishi.net/post/firstpost/</link>
-      <pubDate>Sat, 13 Aug 2016 11:14:25 +0900</pubDate>
-      
-      <guid>https://tamanishi.net/post/firstpost/</guid>
-      <description>
-
-&lt;p&gt;お名前.comでドメイン取ってみてから早1年強。&lt;br /&gt;
-いい加減カタチだけでも、と思って作りました。&lt;/p&gt;
-
-&lt;h4 id=&#34;活用-参考させていただいたところ&#34;&gt;活用・参考させていただいたところ&lt;/h4&gt;
-
-&lt;p&gt;目新しいモノは全然ありません。&lt;br /&gt;
-先人の方々の成果を存分に活用しています。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;br /&gt;
-無料でホスト。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.onamae.com/&#34;&gt;お名前.com&lt;/a&gt;&lt;br /&gt;
-安い。常時セールな印象。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;br /&gt;
-流行り？&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&gt;Font Awesome&lt;/a&gt;&lt;br /&gt;
-右上の&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt;と&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;のためだけです。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tanksuzuki/angels-ladder&#34;&gt;Angel&amp;rsquo;s Ladder&lt;/a&gt;&lt;br /&gt;
-Hugoのテーマ。本家の&lt;a href=&#34;http://gohugo.io/showcase/&#34;&gt;Showcases&lt;/a&gt;が余りに微妙なので彷徨い歩いたところ、日本の方でシンプルに作られてるものを見つけたので使わせてもらいました。&lt;br /&gt;
-有難いかぎりです。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/mofumofu3n/items/b859fb3c5d924cfcca15&#34;&gt;自分のGitHub Pagesと独自ドメインの設定方法&lt;/a&gt;&lt;br /&gt;
-簡単には出来なくて、いろんな情報を見たんだけど、結局このQiitaの記事で事足りたという。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;何にせよ、数年前に比べて簡単にキレイなものが作れるようになった。デプロイも何もかも簡単だ。
-スバラシイ。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>firstpost</title>
+      <title></title>
       <link>https://tamanishi.net/</link>
-      <pubDate>Sat, 13 Aug 2016 10:54:06 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tamanishi.net/</guid>
       <description></description>
