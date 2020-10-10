@@ -5,11 +5,7 @@
     <link>https://tamanishi.net/</link>
     <description>Recent content on tamanishi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://tamanishi.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://tamanishi.net/</link>
